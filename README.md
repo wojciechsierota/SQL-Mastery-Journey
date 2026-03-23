@@ -1,8 +1,8 @@
-# SQL Mastery Journey 🚀
+# SQL Mastery Journey 
 
 A 7-day intensive course to master SQL from scratch.
 
-## 📅 Roadmap
+##  Roadmap
 - [ ] **Day 1**: SELECT Basics (FROM, LIMIT, Aliases)
 - [ ] **Day 2**: Filtering & Sorting (WHERE, ORDER BY)
 - [ ] **Day 3**: Aggregations (GROUP BY, SUM, COUNT)
